@@ -8,3 +8,4 @@ complete -F __start_kubectl k
 alias gs='git status'
 alias gc='git commit'
 alias gp='git push origin'
+alias gitsync='git remote update origin --prune'
