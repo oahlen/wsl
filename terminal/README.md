@@ -10,4 +10,4 @@ Resize: `alt + shift + <arrow key>`
 
 Move to pane: `alt + <arrow key>`
 
-Close pane: ``ctrl + shift + w`
+Close pane: `ctrl + shift + w`
