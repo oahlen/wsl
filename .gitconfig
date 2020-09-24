@@ -1,0 +1,6 @@
+[core]
+    eol = lf
+    editor = vim
+[user]
+    name = John Doe
+    email = john.doe@company.com
